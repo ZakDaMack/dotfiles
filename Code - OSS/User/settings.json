@@ -1,0 +1,6 @@
+{
+    "workbench.startupEditor": "none",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Nord"
+}

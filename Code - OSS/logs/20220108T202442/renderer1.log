@@ -1,0 +1,218 @@
+[2022-01-08 20:24:44.392] [renderer1] [info] Starting extension host with pid 15980.
+[2022-01-08 20:24:44.393] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 13 ms.
+[2022-01-08 20:24:44.836] [renderer1] [error] [Extension Host] (node:15980) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-08 20:25:58.582] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/npm/package.json'
+[2022-01-08 20:25:58.583] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json/package.json'
+[2022-01-08 20:25:58.583] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/yaml/package.json'
+[2022-01-08 20:25:58.584] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/json-language-features/package.json'
+[2022-01-08 20:25:58.584] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/cpp/package.json'
+[2022-01-08 20:25:58.585] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html-language-features/package.json'
+[2022-01-08 20:25:58.585] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css/package.json'
+[2022-01-08 20:25:58.585] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/html/package.json'
+[2022-01-08 20:25:58.585] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/markdown-basics/package.json'
+[2022-01-08 20:25:58.585] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/docker/package.json'
+[2022-01-08 20:25:58.588] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/log/package.json'
+[2022-01-08 20:25:58.589] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/java/package.json'
+[2022-01-08 20:25:58.589] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/configuration-editing/package.json'
+[2022-01-08 20:25:58.589] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/debug-auto-launch/package.json'
+[2022-01-08 20:25:58.590] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/make/package.json'
+[2022-01-08 20:25:58.590] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-08 20:25:58.590] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/handlebars/package.json'
+[2022-01-08 20:25:58.591] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/less/package.json'
+[2022-01-08 20:25:58.591] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/go/package.json'
+[2022-01-08 20:25:58.591] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/bat/package.json'
+[2022-01-08 20:25:58.592] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/clojure/package.json'
+[2022-01-08 20:25:58.592] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/emmet/package.json'
+[2022-01-08 20:25:58.593] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/groovy/package.json'
+[2022-01-08 20:25:58.593] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/coffeescript/package.json'
+[2022-01-08 20:25:58.593] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/grunt/package.json'
+[2022-01-08 20:25:58.594] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/gulp/package.json'
+[2022-01-08 20:25:58.594] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/jake/package.json'
+[2022-01-08 20:25:58.595] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/shellscript/package.json'
+[2022-01-08 20:25:58.595] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/xml/package.json'
+[2022-01-08 20:25:58.596] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/ini/package.json'
+[2022-01-08 20:25:58.596] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/csharp/package.json'
+[2022-01-08 20:25:58.596] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/lua/package.json'
+[2022-01-08 20:25:58.597] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/python/package.json'
+[2022-01-08 20:25:58.597] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/fsharp/package.json'
+[2022-01-08 20:25:58.597] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/merge-conflict/package.json'
+[2022-01-08 20:25:58.598] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/hlsl/package.json'
+[2022-01-08 20:25:58.598] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-08 20:25:58.598] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-language-features/package.json'
+[2022-01-08 20:25:58.598] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/css-language-features/package.json'
+[2022-01-08 20:26:05.762] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/typescript-basics/package.json'
+[2022-01-08 20:26:05.767] [renderer1] [error] EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json': Error: EACCES: permission denied, open '/usr/lib/code/extensions/javascript/package.json'
+[2022-01-08 20:27:01.911] [renderer1] [info] Starting extension host with pid 16502.
+[2022-01-08 20:27:01.912] [renderer1] [info] [LocalProcessExtensionHost]: IExtensionHostStarter.start() took 33 ms.
+[2022-01-08 20:27:02.536] [renderer1] [error] [Extension Host] (node:16502) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `electron --trace-deprecation ...` to show where the warning was created)
+[2022-01-08 20:48:52.543] [renderer1] [error] An unknown error occurred. Please consult the log for more details.
+[2022-01-08 20:49:53.360] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at processNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155602:13)
+    at visitNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29470:24)
+    at Object.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29881:21)
+    at NodeObject.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155585:23)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155617:14)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at processNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155602:13)
+    at visitNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29470:24)
+    at Object.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29881:21)
+    at NodeObject.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155585:23)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155617:14)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at Object.getTokenAtPosition (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121516:16)
+    at getInfo (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150765:28)
+    at Object.getAvailableActions (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:150735:28)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142780:30
+    at getIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:573:23)
+    at Object.flatMapIterator (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:556:27)
+    at Object.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:142776:36)
+    at Proxy.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:157560:32)
+    at IOSession.Session.getApplicableRefactors (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168512:53)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167223:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:460421)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:454257)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453114)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452599
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:463350)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462997)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+[2022-01-08 20:50:09.391] [renderer1] [error] <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at processNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155602:13)
+    at visitNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29470:24)
+    at Object.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29881:21)
+    at NodeObject.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155585:23)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155617:14)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at getTouchingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121511:16)
+    at Object.getTouchingPropertyName (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121503:16)
+    at getReferencesAtLocation (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:131072:44)
+    at getReferencesInContainer (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:131065:21)
+    at getReferencesInContainerOrFiles (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130606:21)
+    at getReferencedSymbolsForSymbol (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130597:21)
+    at Object.getReferencedSymbolsForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130360:34)
+    at Object.getReferenceEntriesForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130030:40)
+    at getSemanticDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128589:57)
+    at Object.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128577:20)
+    at Proxy.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156894:42)
+    at IOSession.Session.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167883:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167185:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23): Error: <semantic> TypeScript Server Error (4.4.3)
+Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+Error: Debug Failure. Did not expect JsxElement to have an Identifier in its trivia
+    at addSyntheticNodes (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155629:30)
+    at processNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155602:13)
+    at visitNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29470:24)
+    at Object.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:29881:21)
+    at NodeObject.forEachChild (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155585:23)
+    at createChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155617:14)
+    at NodeObject.getChildren (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:155562:56)
+    at getTokenAtPositionWorker (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121524:43)
+    at getTouchingToken (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121511:16)
+    at Object.getTouchingPropertyName (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:121503:16)
+    at getReferencesAtLocation (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:131072:44)
+    at getReferencesInContainer (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:131065:21)
+    at getReferencesInContainerOrFiles (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130606:21)
+    at getReferencedSymbolsForSymbol (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130597:21)
+    at Object.getReferencedSymbolsForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130360:34)
+    at Object.getReferenceEntriesForNode (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:130030:40)
+    at getSemanticDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128589:57)
+    at Object.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:128577:20)
+    at Proxy.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:156894:42)
+    at IOSession.Session.getDocumentHighlights (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167883:71)
+    at Session.handlers.ts.Map.ts.getEntries._a.<computed> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:167185:61)
+    at /usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:88
+    at IOSession.Session.executeWithRequestId (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168871:28)
+    at IOSession.Session.executeCommand (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168880:33)
+    at IOSession.Session.onMessage (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:168906:35)
+    at Interface.<anonymous> (/usr/lib/code/extensions/node_modules/typescript/lib/tsserver.js:171511:31)
+    at Interface.emit (events.js:315:20)
+    at Interface._onLine (readline.js:337:10)
+    at Interface._normalWrite (readline.js:482:12)
+    at Socket.ondata (readline.js:194:10)
+    at Socket.emit (events.js:315:20)
+    at addChunk (internal/streams/readable.js:309:12)
+    at readableAddChunk (internal/streams/readable.js:284:9)
+    at Socket.Readable.push (internal/streams/readable.js:223:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+	at Function.create (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:460421)
+	at dispatchResponse (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:454257)
+	at dispatchMessage (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:453114)
+	at /usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:452599
+	at l.fire (/usr/lib/code/out/vs/workbench/services/extensions/node/extensionHostProcess.js:66:1712)
+	at m.onLengthData (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:463350)
+	at Socket.<anonymous> (/usr/lib/code/extensions/typescript-language-features/dist/extension.js:1:462997)
+	at Socket.emit (events.js:315:20)
+	at addChunk (internal/streams/readable.js:309:12)
+	at readableAddChunk (internal/streams/readable.js:284:9)
+	at Socket.Readable.push (internal/streams/readable.js:223:10)
+	at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)

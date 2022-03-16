@@ -1,0 +1,33 @@
+[2022-03-13 16:58:21.274] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2022-03-13 16:58:22.655] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /home/zdowsett/.config/Code - OSS/CachedExtensionVSIXs/dsznajder.es7-react-js-snippets-4.4.3
+[2022-03-13 16:58:22.999] [sharedprocess] [info] Extracted extension to /home/zdowsett/.vscode-oss/extensions/.5b551f7b-eaca-4255-85b0-f6f47c414092: dsznajder.es7-react-js-snippets
+[2022-03-13 16:58:23.003] [sharedprocess] [info] Renamed to /home/zdowsett/.vscode-oss/extensions/dsznajder.es7-react-js-snippets-4.4.3
+[2022-03-13 16:58:23.005] [sharedprocess] [info] Extracting completed. dsznajder.es7-react-js-snippets
+[2022-03-13 16:58:23.008] [sharedprocess] [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+[2022-03-14 21:57:34.848] [sharedprocess] [info] Installing extension: mblode.pretty-formatter
+[2022-03-14 21:57:36.770] [sharedprocess] [info] Downloaded extension: mblode.pretty-formatter /home/zdowsett/.config/Code - OSS/CachedExtensionVSIXs/mblode.pretty-formatter-0.2.1
+[2022-03-14 21:57:37.908] [sharedprocess] [info] Extracted extension to /home/zdowsett/.vscode-oss/extensions/.d08ced14-a59b-45a0-8c1d-4a81ac0222df: mblode.pretty-formatter
+[2022-03-14 21:57:37.946] [sharedprocess] [info] Renamed to /home/zdowsett/.vscode-oss/extensions/mblode.pretty-formatter-0.2.1
+[2022-03-14 21:57:37.951] [sharedprocess] [info] Extracting completed. mblode.pretty-formatter
+[2022-03-14 21:57:37.957] [sharedprocess] [info] Extension installed successfully: mblode.pretty-formatter
+[2022-03-14 21:57:41.427] [sharedprocess] [info] Uninstalling extension: mblode.pretty-formatter
+[2022-03-14 21:57:41.664] [sharedprocess] [info] Detected extension removed from another source mblode.pretty-formatter
+[2022-03-14 21:57:41.710] [sharedprocess] [info] Successfully uninstalled extension: mblode.pretty-formatter
+[2022-03-14 21:57:48.704] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-03-14 21:57:53.997] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/zdowsett/.config/Code - OSS/CachedExtensionVSIXs/esbenp.prettier-vscode-9.3.0
+[2022-03-14 21:57:54.720] [sharedprocess] [info] Extracted extension to /home/zdowsett/.vscode-oss/extensions/.3b36bfb8-cd5d-4cb1-bde5-466db05bec77: esbenp.prettier-vscode
+[2022-03-14 21:57:54.753] [sharedprocess] [info] Renamed to /home/zdowsett/.vscode-oss/extensions/esbenp.prettier-vscode-9.3.0
+[2022-03-14 21:57:54.756] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-03-14 21:57:54.757] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-03-14 21:58:01.337] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-03-14 21:58:03.373] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/zdowsett/.config/Code - OSS/CachedExtensionVSIXs/pkief.material-icon-theme-4.14.1
+[2022-03-14 21:58:04.700] [sharedprocess] [info] Extracted extension to /home/zdowsett/.vscode-oss/extensions/.3e4707f5-5bc5-4f32-83cc-8a8cf0aa4325: pkief.material-icon-theme
+[2022-03-14 21:58:04.732] [sharedprocess] [info] Renamed to /home/zdowsett/.vscode-oss/extensions/pkief.material-icon-theme-4.14.1
+[2022-03-14 21:58:04.734] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-03-14 21:58:04.735] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-03-14 21:58:24.544] [sharedprocess] [info] Installing extension: arcticicestudio.nord-visual-studio-code
+[2022-03-14 21:58:25.102] [sharedprocess] [info] Downloaded extension: arcticicestudio.nord-visual-studio-code /home/zdowsett/.config/Code - OSS/CachedExtensionVSIXs/arcticicestudio.nord-visual-studio-code-0.19.0
+[2022-03-14 21:58:25.130] [sharedprocess] [info] Extracted extension to /home/zdowsett/.vscode-oss/extensions/.43598212-43cc-45e4-9f73-91937dc59baf: arcticicestudio.nord-visual-studio-code
+[2022-03-14 21:58:25.140] [sharedprocess] [info] Renamed to /home/zdowsett/.vscode-oss/extensions/arcticicestudio.nord-visual-studio-code-0.19.0
+[2022-03-14 21:58:25.143] [sharedprocess] [info] Extracting completed. arcticicestudio.nord-visual-studio-code
+[2022-03-14 21:58:25.144] [sharedprocess] [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code

@@ -1,0 +1,654 @@
+Validating found git in: git
+Using git 2.34.1 from git
+> git rev-parse --git-dir
+Open repository: /home/zdowsett/projects/mypt/prototype
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Logbook/PersonalLog.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/PersonalLog.jsx
+> git show --textconv :src/Components/CenteredBox.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/CenteredBox.jsx
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git show --textconv :src/App.css
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.css
+> git cat-file -s 74b5e053450a48a6bdb4d71aad648e7af821975c
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git show --textconv :src/Components/Core/Dashboard.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Core/Dashboard.jsx
+> git show --textconv :src/Components/Core/Drawer.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Core/Drawer.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Course/CourseDay.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseDay.jsx
+> git show --textconv :src/Components/Core/Header.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Core/Header.jsx
+> git show --textconv :src/Components/Core/Drawer.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Core/Drawer.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Core/Drawer.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Core/Drawer.jsx
+> git show --textconv :src/Components/Core/Header.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Core/Header.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Logbook/PersonalLog.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/PersonalLog.jsx
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityView.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityView.jsx
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Course/CourseDay.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseDay.jsx
+> git show --textconv :src/Components/Activities/ActivitiesList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivitiesList.jsx
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git show --textconv :src/Components/CenteredBox.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/CenteredBox.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Activities/ActivityListItem.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Activities/ActivityListItem.jsx
+> git show --textconv :src/Components/Course/CourseList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Course/CourseList.jsx
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Core/Drawer.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Core/Drawer.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git show --textconv :src/Components/Logbook/LogbookList copy.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList copy.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Logbook/WeightGraph.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/WeightGraph.jsx
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Logbook/LogbookList.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/LogbookList.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/App.js
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/App.js
+> git cat-file -s 0d197679ad59456ca38186dd0d940401abf8a4b3
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :src/Components/Logbook/WeightGraph.jsx
+> git ls-files --stage -- /home/zdowsett/projects/mypt/prototype/src/Components/Logbook/WeightGraph.jsx
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template

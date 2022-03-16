@@ -1,0 +1,18 @@
+[2022-03-16 22:34:59.866] [exthost] [info] Extension host with pid 80419 started
+[2022-03-16 22:34:59.866] [exthost] [info] Skipping acquiring lock for /home/zdowsett/.config/Code - OSS/User/workspaceStorage/9c7076de222e15405a919df617fac875.
+[2022-03-16 22:34:59.993] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+[2022-03-16 22:35:00.113] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-03-16 22:35:00.121] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-03-16 22:35:00.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-03-16 22:35:00.170] [exthost] [info] ExtensionService#_doActivateExtension ExodiusStudios.comment-anchors, startup: true, activationEvent: '*'
+[2022-03-16 22:35:00.223] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-03-16 22:35:00.628] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-03-16 22:35:00.704] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-03-16 22:35:00.826] [exthost] [info] Eager extensions activated
+[2022-03-16 22:35:00.888] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 22:35:00.922] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 22:35:00.931] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 22:35:02.023] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 22:35:02.716] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-03-16 22:35:02.759] [exthost] [info] extension host terminating: parent process 80308 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-03-16 22:35:02.765] [exthost] [info] Extension host with pid 80419 exiting with code 0

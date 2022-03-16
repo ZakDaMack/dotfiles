@@ -1,0 +1,12 @@
+[2022-01-10 19:10:21.467] [exthost] [info] Extension host with pid 3616 started
+[2022-01-10 19:10:21.467] [exthost] [info] Skipping acquiring lock for /home/zdowsett/.config/Code - OSS/User/workspaceStorage/9c7076de222e15405a919df617fac875.
+[2022-01-10 19:10:21.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:javascriptreact'
+[2022-01-10 19:10:21.664] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascriptreact'
+[2022-01-10 19:10:21.686] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-10 19:10:21.691] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-01-10 19:10:21.726] [exthost] [info] ExtensionService#_doActivateExtension ExodiusStudios.comment-anchors, startup: true, activationEvent: '*'
+[2022-01-10 19:10:21.765] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-01-10 19:10:22.581] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-10 19:10:22.767] [exthost] [info] Eager extensions activated
+[2022-01-10 19:10:22.809] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-10 19:10:26.521] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

@@ -1,0 +1,10 @@
+#Dracula Theme
+
+# class                 border  bground text    indicator child_border
+client.focused          #81A1C1 #81A1C1 #FFFFFF #81A1C1   #FF79C6
+client.focused_inactive #2E3440 #2E3440 #888888 #2E3440   #F8F8F2
+client.unfocused        #2E3440 #2E3440 ##88888 #2E3340   #F8F8F2
+client.urgent           #900000 #900000 #FFFFFF #900000   #FF5555
+client.placeholder      #2E3440 #2E3340 #888888 #2E3440   #282A36
+
+client.background       #242424
